@@ -4,7 +4,7 @@ import { UserService } from './user.service';
 import { User } from './user.entity';
 import { SendEmailDto } from './dto/send-email.dto';
 import * as nodemailer from 'nodemailer';
-import { ApiOperation ,ApiResponse,ApiBody,ApiTags } from '@nestjs/swagger';
+import { ApiOperation, ApiResponse, ApiBody, ApiTags } from '@nestjs/swagger';
 
 @ApiTags('Users')
 @Controller('users')
