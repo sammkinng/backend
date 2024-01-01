@@ -62,11 +62,6 @@ $ npm run test:cov
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
@@ -75,9 +70,12 @@ Nest is [MIT licensed](LICENSE).
 
 # Backend RedPositive Assignment
 
-API documentation:
+API documentation: https://backend-f2dq.onrender.com/api
+
+Backend App link: https://backend-f2dq.onrender.com
 
 
-Note: I have used ethereal to send mail usinf nodemailer. 
+
+Note: I have used ethereal to send mail using nodemailer. 
 So you will not receive it in your inbox. 
 Visit the URL received in response to see the sent mail.
