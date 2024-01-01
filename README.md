@@ -71,3 +71,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+# Backend RedPositive Assignment
+
+API documentation:
+
+
+Note: I have used ethereal to send mail usinf nodemailer. 
+So you will not receive it in your inbox. 
+Visit the URL received in response to see the sent mail.
