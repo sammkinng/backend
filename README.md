@@ -79,3 +79,5 @@ Backend App link: https://backend-f2dq.onrender.com
 Note: I have used ethereal to send mail using nodemailer. 
 So you will not receive it in your inbox. 
 Visit the URL received in response to see the sent mail.
+## Screenshot of Ethereal mail
+![Ethereal Mail Screenshot](https://github.com/sammkinng/backend/assets/54803032/f1d1dd77-2970-40cd-9480-c509908aee13)
